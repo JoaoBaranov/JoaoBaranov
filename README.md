@@ -2,10 +2,10 @@
 
 # João Baranov
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1500&pause=600&color=F59E0B&center=true&vCenter=true&width=700&lines=DBA;ORACLE+PL%2FSQL" alt="Apresentação animada">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=700&color=F59E0B&center=true&vCenter=true&width=700&lines=ANALISTA+DE+BANCO+DE+DADOS+JR.;ORACLE+PL%2FSQL+%7C+DBA" alt="Apresentação animada">
 
-<a href="mailto:baranovjoao@outlook.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
-<a href="https://github.com/JoaoBaranov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/joaobaranov"><img src="https://img.shields.io/badge/LinkedIn-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/joao_baranov/"><img src="https://img.shields.io/badge/Instagram-E67E22?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
@@ -42,7 +42,7 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 </div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Animação de programação">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=100&section=footer" width="100%" alt="Detalhe visual dourado">
 </div>
 
 <div align="center">
