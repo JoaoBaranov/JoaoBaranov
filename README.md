@@ -44,6 +44,7 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=F59E0B&height=100&section=footer" width="100%" alt="Animação dourada">
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="520" alt="Mini game animado">
 </div>
 
 <div align="center">
