@@ -26,7 +26,6 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js">
 <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML">
 <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS">
-<img src="https://skillicons.dev/icons?i=sql" height="48" alt="SQL">
 <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git">
 <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub">
 </div>
