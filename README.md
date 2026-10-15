@@ -1,28 +1,37 @@
-# João Baranov
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2800&pause=1200&color=2563EB&center=true&vCenter=true&width=520&lines=Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Construindo+e+aprendendo+na+pr%C3%A1tica" alt="Apresentação animada">
-
 <div align="center">
 
+# João Baranov
+
+### Analista de Banco de Dados Jr.
+
+<p>Atuo com análise de dados, Oracle PL/SQL, relatórios e soluções de BI.</p>
+
+<a href="mailto:baranovjoao@outlook.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
 <a href="https://github.com/JoaoBaranov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:seu.email@example.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
 ## Sobre mim
 
-Desenvolvedor em formação, criando projetos para aprender na prática e evoluir continuamente.
+Sou estudante de Banco de Dados na Fatec e trabalho como Analista de Banco de Dados Jr. Tenho experiência com extração e análise de dados, desenvolvimento de queries, relatórios, BI e suporte técnico.
 
 ## Tecnologias
 
-<div><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github" alt="Tecnologias"></div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=oracle,postgres,python,java,js,react,nodejs,html,css,git,github" alt="Tecnologias">
+</div>
 
-## Projetos em destaque
+<div align="center">
 
-| Projeto | Descrição |
-| --- | --- |
-| [Meu projeto](https://github.com/JoaoBaranov) | Um espaço para reunir meus estudos e experimentos. |
-| Em breve | Novos projetos serão adicionados aqui. |
+`Oracle SQL` · `PL/SQL` · `PostgreSQL` · `Python` · `JavaScript` · `React` · `Node.js` · `Power BI`
+
+</div>
+
+## Formação
+
+**Banco de Dados** · Fatec São José dos Campos · 2024–2027
+
+Também possuo formação técnica em Eletricista de Manutenção Eletroeletrônica e Mecânica de Manutenção pelo Senai.
 
 ## Estatísticas
 
@@ -33,6 +42,6 @@ Desenvolvedor em formação, criando projetos para aprender na prática e evolui
 
 <div align="center">
 
-### Obrigado pela visita!
+### Vamos conversar
 
 </div>
