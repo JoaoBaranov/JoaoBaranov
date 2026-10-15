@@ -2,7 +2,7 @@
 
 # João Baranov
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1600&pause=650&color=2563EB&center=true&vCenter=true&width=700&lines=ANALISTA+DE+BANCO+DE+DADOS+JR.;DBA+%7C+ORACLE+PL%2FSQL;RELAT%C3%93RIOS+%7C+DASHBOARDS+%7C+BI" alt="Apresentação animada">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1500&pause=600&color=F59E0B&center=true&vCenter=true&width=700&lines=DBA;ORACLE+PL%2FSQL" alt="Apresentação animada">
 
 <a href="mailto:baranovjoao@outlook.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
 <a href="https://github.com/JoaoBaranov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -37,12 +37,12 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 ## Estatísticas
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoBaranov&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=64748B&bg_color=FFFFFF00" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBaranov&layout=compact&hide_border=true&title_color=2563EB&text_color=64748B&bg_color=FFFFFF00" alt="Linguagens mais usadas">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaoBaranov&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=94A3B8&bg_color=FFFFFF00" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBaranov&layout=compact&hide_border=true&title_color=F59E0B&text_color=94A3B8&bg_color=FFFFFF00" alt="Linguagens mais usadas">
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JoaoBaranov/JoaoBaranov/output/github-contribution-grid-snake-blue.svg" alt="Jogo da cobrinha das contribuições">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Animação de programação">
 </div>
 
 <div align="center">
