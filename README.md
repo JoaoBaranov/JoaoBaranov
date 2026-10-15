@@ -16,7 +16,8 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 ## Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=oracle" height="48" alt="Oracle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL">
 <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python">
 <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java">
 <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript">
