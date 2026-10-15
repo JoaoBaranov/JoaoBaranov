@@ -44,7 +44,6 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=F59E0B&height=100&section=footer" width="100%" alt="Animação dourada">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=900&color=F59E0B&center=true&vCenter=true&width=500&lines=VALEU+PELA+VISITA;VAMOS+CONVERSAR" alt="Mensagem animada">
 </div>
 
 <div align="center">
