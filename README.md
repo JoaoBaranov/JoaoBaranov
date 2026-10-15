@@ -2,7 +2,7 @@
 
 # João Baranov
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=700&color=2563EB&center=true&vCenter=true&width=700&lines=Analista+de+Banco+de+Dados+Jr.;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Oracle+PL%2FSQL+%7C+PostgreSQL+%7C+BI" alt="Apresentação animada">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1600&pause=650&color=2563EB&center=true&vCenter=true&width=700&lines=ANALISTA+DE+BANCO+DE+DADOS+JR.;DBA+%7C+ORACLE+PL%2FSQL;RELAT%C3%93RIOS+%7C+DASHBOARDS+%7C+BI" alt="Apresentação animada">
 
 <a href="mailto:baranovjoao@outlook.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
 <a href="https://github.com/JoaoBaranov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -16,19 +16,21 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 ## Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=oracle,postgres,python,java,js,react,nodejs,html,css,git,github" alt="Tecnologias">
-</div>
-
-<div align="center">
-
-`Oracle SQL` · `PL/SQL` · `PostgreSQL` · `Python` · `JavaScript` · `React` · `Node.js` · `Power BI`
-
+<img src="https://skillicons.dev/icons?i=oracle" height="48" alt="Oracle">
+<img src="https://skillicons.dev/icons?i=python" height="48" alt="Python">
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="Java">
+<img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript">
+<img src="https://skillicons.dev/icons?i=react" height="48" alt="React">
+<img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js">
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML">
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS">
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git">
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub">
 </div>
 
 ## Formação
 
-**Banco de Dados** · Fatec São José dos Campos · Cursando · 2024–2027
-
+- **Banco de Dados** · Fatec São José dos Campos · Cursando
 - Técnico em Eletricista de Manutenção Eletroeletrônica · Senai
 - Técnico em Mecânica de Manutenção · Senai
 
@@ -40,13 +42,8 @@ Sou desenvolvedor e Analista de Banco de Dados Jr., com foco em administração,
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-blue.svg" alt="Animação das contribuições">
+<img src="https://raw.githubusercontent.com/JoaoBaranov/JoaoBaranov/output/github-contribution-grid-snake-blue.svg" alt="Jogo da cobrinha das contribuições">
 </div>
-
-```sql
-SELECT * FROM database_skills
-WHERE area IN ('Oracle', 'PostgreSQL', 'BI');
-```
 
 <div align="center">
 
